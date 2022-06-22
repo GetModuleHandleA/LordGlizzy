@@ -1,6 +1,6 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://discord.gg/shitwater" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/discord.svg" alt="imlvna" height="30" width="40" /></a>
+<a href="https://discord.gg/QdmSfP7NNr" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/discord.svg" alt="imlvna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages I Know:</h3>
